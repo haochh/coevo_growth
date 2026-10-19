@@ -1,6 +1,3 @@
-setwd("/DATA/Chunhui/Growth")
-
-.libPaths(c("/home/haochh/Rlib",.libPaths()))
 library(tidyverse)
 library(mvSLOUCH)
 library(doParallel)
