@@ -1,4 +1,3 @@
-setwd("/Users/user/Chunhui/Life_history/Code")
 library(tidyverse)
 library(ape)
 library(geiger)
