@@ -14,7 +14,7 @@ coevo_growth/
 │   ├── data_bivariate_mvOU_experiGR.RData
 │   ├── tree_mvSLOUCH.RData
 │   └── Regime_list.RData
-├── Results/
+├── Result/
 │   ├──bayou/
 │      ├──Bayou_OU1_ExperiGR_11factors.RData
 │      ├──Bayou_OUM_ExperiGR_11factors.RData
